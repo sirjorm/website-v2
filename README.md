@@ -1,3 +1,3 @@
 # `jorm-website`
 
-may not last long due to the developer's incompetence.
+may not last long due to the developer's incopetence.
